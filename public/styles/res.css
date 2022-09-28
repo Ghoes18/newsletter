@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100vh;
+}
+
+h1 {
+    color: #ff914d;
+}
+
+input {
+  background-color: #ff914d !important;
+  color: #fff !important;
+}
+
+input:hover {
+  background-color: #e97832 !important;
+}
