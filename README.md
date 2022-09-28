@@ -1,5 +1,7 @@
 # newsletter
 
+A newsletter made with Mailchimp API, Node and ExpressJs
+
 ## Run Locally
 
 Clone the project
